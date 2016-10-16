@@ -16,7 +16,7 @@
     text-align: center;
 
     @mixin atMedium {
-       padding-top: 60px;
+      padding-top: 60px;
     }
   }
 
@@ -59,9 +59,3 @@
   }
 
 }
-
-
-
-
-
- 
